@@ -1,0 +1,16 @@
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\bin\Debug\net8.0\Livraria.Infrastructure.deps.json
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\bin\Debug\net8.0\Livraria.Infrastructure.dll
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\bin\Debug\net8.0\Livraria.Infrastructure.pdb
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\bin\Debug\net8.0\Livraria.Domain.dll
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\bin\Debug\net8.0\Livraria.Domain.pdb
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.AssemblyInfo.cs
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.sourcelink.json
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.3F44A405.Up2Date
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.dll
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\refint\Livraria.Infrastructure.dll
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.pdb
+C:\Users\Willk\RiderProjects\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\ref\Livraria.Infrastructure.dll
