@@ -10,4 +10,9 @@
       <ProjectReference Include="..\Livraria.CrossCutting\Livraria.CrossCutting.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Remove="Components\Pages\Counter.razor" />
+      <Content Remove="Components\Pages\Weather.razor" />
+    </ItemGroup>
+
 </Project>

@@ -10,7 +10,7 @@ main[b-hlgpkdfn59] {
 }
 
 .sidebar[b-hlgpkdfn59] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    /*background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);*/
 }
 
 .top-row[b-hlgpkdfn59] {
@@ -114,7 +114,7 @@ main[b-hlgpkdfn59] {
 }
 
 .top-row[b-fzdpexwkt5] {
-    height: 3.5rem;
+    height: 120px;
     background-color: rgba(0,0,0,0.4);
 }
 
